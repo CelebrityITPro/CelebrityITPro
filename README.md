@@ -1,4 +1,4 @@
-## Hello there 👋, I'm Kenechukwu Ifediorah
+## Hello there 👋, I'm Ken Ifediorah
 
 🔍 I’m passionate about leveraging Machine Learning, AI, and Data Analytics to solve real-world problems across industries. My journey began in Electrical Engineering and evolved through roles in data strategy, analytics, and process automation, helping organizations transform data into actionable insights.
 
@@ -26,17 +26,13 @@ Business Intelligence & Automation 📈
 
 📫 Let’s connect:
 
-`LinkedIn` [![Linkedin: Kenechukwu](https://img.shields.io/badge/-Kenechukwu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kenechukwu-ifediorah)](https://www.linkedin.com/in/kenechukwu-ifediorah)
+`LinkedIn` [Kenechukwu 'Ken' Ifediorah](https://www.linkedin.com/in/kenechukwu-ifediorah)
 
-`GitHub` [![GitHub Kenechukwu](https://img.shields.io/github/followers/CelebrityITPro?label=follow&style=social)](https://github.com/CelebrityITPro)
+`GitHub` [CelebrityITPro](https://github.com/CelebrityITPro)
 
-`X` [![Twitter Follow](https://img.shields.io/twitter/follow/iam_khosee?style=social)](https://twitter.com/iam_khosee)
+`X` [Celebrity IT Professional](https://twitter.com/iam_khosee)
 
 `email` [ifediorah.kenechukwu@gmail.com](mailto:ifediorah.kenechukwu@gmail.com)
-
-- 📫 How to reach me:
-  **[ifediorah.kenechukwu@gmail.com](mailto:ifediorah.kenechukwu@gmail.com) || [Twitter](https://twitter.com/iam_khosee) || [Instagram](https://instagram.com/iam_khosee) || [LinkedIn](https://www.linkedin.com/in/kenechukwu-ifediorah)**
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CelebrityITPro&layout=compact&theme=dark&hide_border=true)
 
