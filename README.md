@@ -25,9 +25,14 @@ Data Engineering & MLOps 🔧
 Business Intelligence & Automation 📈
 
 📫 Let’s connect:
-[![Linkedin: Kenechukwu](https://img.shields.io/badge/-Kenechukwu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kenechukwu-ifediorah)](https://www.linkedin.com/in/kenechukwu-ifediorah)
-[![GitHub Kenechukwu](https://img.shields.io/github/followers/CelebrityITPro?label=follow&style=social)](https://github.com/CelebrityITPro)
-[![Twitter Follow](https://img.shields.io/twitter/follow/iam_khosee?style=social)](https://twitter.com/iam_khosee)
+
+`LinkedIn` [![Linkedin: Kenechukwu](https://img.shields.io/badge/-Kenechukwu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kenechukwu-ifediorah)](https://www.linkedin.com/in/kenechukwu-ifediorah)
+
+`GitHub` [![GitHub Kenechukwu](https://img.shields.io/github/followers/CelebrityITPro?label=follow&style=social)](https://github.com/CelebrityITPro)
+
+`X` [![Twitter Follow](https://img.shields.io/twitter/follow/iam_khosee?style=social)](https://twitter.com/iam_khosee)
+
+`email` [ifediorah.kenechukwu@gmail.com](mailto:ifediorah.kenechukwu@gmail.com)
 
 - 📫 How to reach me:
   **[ifediorah.kenechukwu@gmail.com](mailto:ifediorah.kenechukwu@gmail.com) || [Twitter](https://twitter.com/iam_khosee) || [Instagram](https://instagram.com/iam_khosee) || [LinkedIn](https://www.linkedin.com/in/kenechukwu-ifediorah)**
