@@ -1,16 +1,39 @@
-## Hi there 👋
+## Hello there 👋, I'm Kenechukwu Ifediorah
 
-<!--
-**CelebrityITPro/CelebrityITPro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 I’m passionate about leveraging Machine Learning, AI, and Data Analytics to solve real-world problems across industries. My journey began in Electrical Engineering and evolved through roles in data strategy, analytics, and process automation, helping organizations transform data into actionable insights.
 
-Here are some ideas to get you started:
+🎓 I’m currently completing a Postgraduate Diploma in Applied AI & Machine Learning at Conestoga College, where I’m building advanced skills in:
+- Supervised & Unsupervised Learning
+- Deep Learning (CNNs, LSTMs, Transformers)
+- NLP & Generative AI (LLMs, HuggingFace)
+- MLOps & End-to-End ML Pipelines
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Technical Toolbox:
+Python | SQL | Power BI | TensorFlow | PyTorch | Scikit-learn | Pandas | Matplotlib | Seaborn | Azure | AWS | GCP | Streamlit | Docker | FastAPI | Node.js
+
+📂 Highlighted Projects:
+🩺 SageCare 2.0 – AI-Enhanced Virtual Healthcare Assistant integrating speech-to-text, NLP triage, and computer vision nutrition analysis for Canadian seniors. Built using Whisper, YOLOv8, and React/Node.js with Dockerized microservices and PHIPA/PIPEDA-compliant architecture. 🔗 GitHub
+💬 Sentiment Analysis using NLP & LLMs: Leveraged HuggingFace transformers for emotion detection and feature extraction on the Sentiment140 dataset.
+🧠 PneumoScan: Automated pneumonia detection from X-rays using fine-tuned CNN architectures (ResNet, MobileNet).
+📊 Hospital Appointment Data Analysis: Data wrangling and visualization of patient attendance patterns with Pandas & Seaborn.
+🐶 WeRateDogs Tweet Analysis: Exploratory and sentiment analysis of social media data using Tweepy, Pandas, and Matplotlib.
+
+🤝 I enjoy collaborating on projects that blend AI innovation and social impact, especially in:
+Healthcare & Accessibility Tech 🏥
+Data Engineering & MLOps 🔧
+Business Intelligence & Automation 📈
+
+📫 Let’s connect:
+[![Linkedin: Kenechukwu](https://img.shields.io/badge/-Kenechukwu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kenechukwu-ifediorah)](https://www.linkedin.com/in/kenechukwu-ifediorah)
+[![GitHub Kenechukwu](https://img.shields.io/github/followers/CelebrityITPro?label=follow&style=social)](https://github.com/CelebrityITPro)
+[![Twitter Follow](https://img.shields.io/twitter/follow/iam_khosee?style=social)](https://twitter.com/iam_khosee)
+
+- 📫 How to reach me:
+  **[ifediorah.kenechukwu@gmail.com](mailto:ifediorah.kenechukwu@gmail.com) || [Twitter](https://twitter.com/iam_khosee) || [Instagram](https://instagram.com/iam_khosee) || [LinkedIn](https://www.linkedin.com/in/kenechukwu-ifediorah)**
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eepheanyee&layout=compact&theme=dark&hide_border=true)
+
+![Kenechukwu's github stats](https://github-readme-stats.vercel.app/api?username=eepheanyee&show_icons=true&hide_border=true&theme=dark)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=eepheanyee)](https://github.com/eepheanyee/github-profile-trophy)
