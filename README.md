@@ -9,14 +9,15 @@
 - MLOps & End-to-End ML Pipelines
 
 💻 Technical Toolbox:
-Python | SQL | Power BI | TensorFlow | PyTorch | Scikit-learn | Pandas | Matplotlib | Seaborn | Azure | AWS | GCP | Streamlit | Docker | FastAPI | Node.js
+
+`Python` | `SQL` | `Power BI` | `TensorFlow` | `PyTorch` | `Scikit-learn` | `Pandas` | `Matplotlib` | `Seaborn` | `Azure` | `AWS` | `GCP` | `Streamlit` | `Docker` | `FastAPI`
 
 📂 Highlighted Projects:
-🩺 SageCare 2.0 – AI-Enhanced Virtual Healthcare Assistant integrating speech-to-text, NLP triage, and computer vision nutrition analysis for Canadian seniors. Built using Whisper, YOLOv8, and React/Node.js with Dockerized microservices and PHIPA/PIPEDA-compliant architecture. 🔗 GitHub
-💬 Sentiment Analysis using NLP & LLMs: Leveraged HuggingFace transformers for emotion detection and feature extraction on the Sentiment140 dataset.
-🧠 PneumoScan: Automated pneumonia detection from X-rays using fine-tuned CNN architectures (ResNet, MobileNet).
-📊 Hospital Appointment Data Analysis: Data wrangling and visualization of patient attendance patterns with Pandas & Seaborn.
-🐶 WeRateDogs Tweet Analysis: Exploratory and sentiment analysis of social media data using Tweepy, Pandas, and Matplotlib.
+- 🩺 SageCare 2.0 – AI-Enhanced Virtual Healthcare Assistant integrating speech-to-text, NLP triage, and computer vision nutrition analysis for Canadian seniors. Built using Whisper, YOLOv8, and React/Node.js with Dockerized microservices and PHIPA/PIPEDA-compliant architecture. 🔗 GitHub
+- 💬 Sentiment Analysis using NLP & LLMs: Leveraged HuggingFace transformers for emotion detection and feature extraction on the Sentiment140 dataset.
+- 🧠 PneumoScan: Automated pneumonia detection from X-rays using fine-tuned CNN architectures (ResNet, MobileNet).
+- 📊 Hospital Appointment Data Analysis: Data wrangling and visualization of patient attendance patterns with Pandas & Seaborn.
+- 🐶 WeRateDogs Tweet Analysis: Exploratory and sentiment analysis of social media data using Tweepy, Pandas, and Matplotlib.
 
 🤝 I enjoy collaborating on projects that blend AI innovation and social impact, especially in:
 Healthcare & Accessibility Tech 🏥
@@ -32,8 +33,8 @@ Business Intelligence & Automation 📈
   **[ifediorah.kenechukwu@gmail.com](mailto:ifediorah.kenechukwu@gmail.com) || [Twitter](https://twitter.com/iam_khosee) || [Instagram](https://instagram.com/iam_khosee) || [LinkedIn](https://www.linkedin.com/in/kenechukwu-ifediorah)**
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eepheanyee&layout=compact&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CelebrityITPro&layout=compact&theme=dark&hide_border=true)
 
-![Kenechukwu's github stats](https://github-readme-stats.vercel.app/api?username=eepheanyee&show_icons=true&hide_border=true&theme=dark)
+![Kenechukwu's github stats](https://github-readme-stats.vercel.app/api?username=CelebrityITPro&show_icons=true&hide_border=true&theme=dark)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=eepheanyee)](https://github.com/eepheanyee/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=CelebrityITPro)](https://github.com/CelebrityITPro/github-profile-trophy)
