@@ -26,13 +26,7 @@ Business Intelligence & Automation 📈
 
 📫 Let’s connect:
 
-`LinkedIn` [Kenechukwu 'Ken' Ifediorah](https://www.linkedin.com/in/kenechukwu-ifediorah)
-
-`GitHub` [CelebrityITPro](https://github.com/CelebrityITPro)
-
-`X` [Celebrity IT Professional](https://twitter.com/iam_khosee)
-
-`email` [ifediorah.kenechukwu@gmail.com](mailto:ifediorah.kenechukwu@gmail.com)
+`LinkedIn` [Kenechukwu 'Ken' Ifediorah](https://www.linkedin.com/in/kenechukwu-ifediorah) `GitHub` [CelebrityITPro](https://github.com/CelebrityITPro) `X` [Celebrity IT Professional](https://twitter.com/iam_khosee) `email` [ifediorah.kenechukwu@gmail.com](mailto:ifediorah.kenechukwu@gmail.com)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CelebrityITPro&layout=compact&theme=dark&hide_border=true)
 
